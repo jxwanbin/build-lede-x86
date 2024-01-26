@@ -11,4 +11,3 @@
 #
 
 # Modify default kernel edition
-sed -i 's/5.15/6.1/g' target/linux/x86/Makefile
