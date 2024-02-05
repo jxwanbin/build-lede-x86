@@ -9,5 +9,5 @@
 # File name: diy-part2.sh
 # Description: OpenWrt DIY script part 2 (After Update feeds)
 #
-  sed -i 's/5.15/6.1/g' target/linux/x86/Makefile
+  sed -i 's/6.1/6.6/g' target/linux/x86/Makefile
 # Modify default kernel edition
